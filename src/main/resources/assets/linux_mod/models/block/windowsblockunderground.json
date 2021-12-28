@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "linux_mod:blocks/windows_logo",
+    "up": "linux_mod:blocks/windows_logo",
+    "north": "linux_mod:blocks/windows_logo",
+    "east": "linux_mod:blocks/windows_logo",
+    "south": "linux_mod:blocks/windows_logo",
+    "west": "linux_mod:blocks/windows_logo",
+    "particle": "linux_mod:blocks/windows_logo"
+  }
+}

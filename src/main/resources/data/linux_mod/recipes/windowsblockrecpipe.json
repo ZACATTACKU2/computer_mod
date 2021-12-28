@@ -1,0 +1,42 @@
+{
+  "group": "linux_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "linux_mod:windowsdimension"
+    },
+    "1": {
+      "item": "linux_mod:windowsdimension"
+    },
+    "2": {
+      "item": "linux_mod:windowsdimension"
+    },
+    "3": {
+      "item": "linux_mod:windowsdimension"
+    },
+    "4": {
+      "item": "linux_mod:windowsdimension"
+    },
+    "5": {
+      "item": "linux_mod:windowsdimension"
+    },
+    "6": {
+      "item": "linux_mod:windowsdimension"
+    },
+    "7": {
+      "item": "linux_mod:windowsdimension"
+    },
+    "8": {
+      "item": "linux_mod:windowsdimension"
+    }
+  },
+  "result": {
+    "item": "linux_mod:windowsblockunderground",
+    "count": 1
+  }
+}

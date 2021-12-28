@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Gpus",
+    "icon": {
+      "value": "CUSTOM:Gpu"
+    },
+    "showSearch": false
+  }
+}

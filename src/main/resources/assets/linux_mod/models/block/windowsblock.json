@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "linux_mod:blocks/windows_logo",
+    "top": "linux_mod:blocks/windows_block_top",
+    "side": "linux_mod:blocks/windows_logo",
+    "overlay": "linux_mod:blocks/windows_logo",
+    "particle": "linux_mod:blocks/windows_logo"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "linux_mod:block/windowsdimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "linux_mod:block/windowsdimension_portal_ns"
+    }
+  }
+}

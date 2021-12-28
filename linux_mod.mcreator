@@ -1,0 +1,162 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Windows",
+      "type": "particle",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "windows"
+    },
+    {
+      "name": "Windowsblock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "windowsblock"
+    },
+    {
+      "name": "Windowsblockunderground",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "windowsblockunderground"
+    },
+    {
+      "name": "Windowsbiome",
+      "type": "biome",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "windowsbiome"
+    },
+    {
+      "name": "Windowsdimension",
+      "type": "dimension",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "windowsdimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Billgates",
+      "type": "livingentity",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "billgates"
+    },
+    {
+      "name": "Gpus",
+      "type": "tab",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gpus"
+    },
+    {
+      "name": "RtxGpu",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rtx_gpu"
+    },
+    {
+      "name": "Gpu",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gpu"
+    },
+    {
+      "name": "Gpuupgrade",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gpuupgrade"
+    },
+    {
+      "name": "Gpumake",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gpumake"
+    },
+    {
+      "name": "Windowsrecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "windowsrecipe"
+    },
+    {
+      "name": "Windowsblockrecpipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "windowsblockrecpipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.linux_mod.windowsdimension": "Windowsdimension Portal Igniter",
+      "block.linux_mod.windowsblock": "Windowsblock",
+      "biome.linux_mod.windowsbiome": "Windowsbiome",
+      "item.linux_mod.billgates_spawn_egg": "Billgates Spawn Egg",
+      "entity.linux_mod.billgates": "Billgates",
+      "item.linux_mod.rtx_gpu": "Rtx Gpu",
+      "block.linux_mod.windowsblockunderground": "Windowsblock",
+      "itemGroup.tabgpus": "Gpus",
+      "item.linux_mod.gpu": "Gpu"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "linux_mod",
+    "modName": "linux mod",
+    "version": "1.0.0",
+    "author": "zacattack, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.linuxmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

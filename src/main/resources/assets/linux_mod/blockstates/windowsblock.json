@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "linux_mod:block/windowsblock"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "item.linux_mod.windowsdimension": "Windowsdimension Portal Igniter",
+  "block.linux_mod.windowsblock": "Windowsblock",
+  "biome.linux_mod.windowsbiome": "Windowsbiome",
+  "item.linux_mod.billgates_spawn_egg": "Billgates Spawn Egg",
+  "entity.linux_mod.billgates": "Billgates",
+  "item.linux_mod.rtx_gpu": "Rtx Gpu",
+  "block.linux_mod.windowsblockunderground": "Windowsblock",
+  "itemGroup.tabgpus": "Gpus",
+  "item.linux_mod.gpu": "Gpu"
+}
